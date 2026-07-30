@@ -17,6 +17,11 @@ The **Phone Service System** is a Windows Forms (WinForms) application developed
 
 This project demonstrates strong object-oriented programming principles, the Repository design pattern, and effective use of the ADO.NET/SQLite data access layer.
 
+## 📚 Documentation & Wiki
+
+For detailed guides on how to use the application and a deep dive into the database architecture, please visit the **[Project Wiki](https://github.com/danielharton/PhoneServiceSystem/wiki)**. 
+
+
 ## ✨ Key Features
 
 - **👥 Client Management**: Create, read, update, and delete (CRUD) client profiles, including first name, last name, and contact numbers.
